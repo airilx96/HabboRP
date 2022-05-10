@@ -238,3 +238,18 @@ C:\Users\ADM\Documents\Desktop\Emuladorx\obj\x86\Debug\Plus Emulator.csprojResol
 C:\Users\ADM\Documents\Desktop\Emuladorx\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
 C:\Users\ADM\Documents\Desktop\Emuladorx\obj\x86\Debug\Plus Emulator.exe
 C:\Users\ADM\Documents\Desktop\Emuladorx\obj\x86\Debug\Plus Emulator.pdb
+E:\Documents\Github\HabboRP\obj\x86\Debug\Plus Emulator.csproj.AssemblyReference.cache
+E:\Documents\Github\HabboRP\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+E:\Documents\Github\HabboRP\bin\Debug\Plus Emulator.exe.config
+E:\Documents\Github\HabboRP\bin\Debug\Plus Emulator.exe
+E:\Documents\Github\HabboRP\bin\Debug\Plus Emulator.pdb
+E:\Documents\Github\HabboRP\bin\Debug\Fleck.dll
+E:\Documents\Github\HabboRP\bin\Debug\HabboRC4.dll
+E:\Documents\Github\HabboRP\bin\Debug\log4net.dll
+E:\Documents\Github\HabboRP\bin\Debug\MySql.Data.dll
+E:\Documents\Github\HabboRP\bin\Debug\Newtonsoft.Json.dll
+E:\Documents\Github\HabboRP\bin\Debug\log4net.xml
+E:\Documents\Github\HabboRP\bin\Debug\Newtonsoft.Json.xml
+E:\Documents\Github\HabboRP\obj\x86\Debug\Plus Emulator.csproj.CopyComplete
+E:\Documents\Github\HabboRP\obj\x86\Debug\Plus Emulator.exe
+E:\Documents\Github\HabboRP\obj\x86\Debug\Plus Emulator.pdb
